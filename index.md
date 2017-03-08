@@ -1,3 +1,15 @@
-# Scratchpad
+# 8 March 2017
 
-This is a place for me to keep notes on things I've learned or discovered.
+I've been figuring out how to use React and a bunch of supporting or related
+libraries for dynamic web development.
+
+* [react](https://facebook.github.io/react/)
+* [redux](http://redux.js.org/)
+* [react-redux](http://redux.js.org/docs/basics/UsageWithReact.html)
+* [react-router](https://reacttraining.com/react-router/)
+* [react-router-redux](https://www.npmjs.com/package/react-router-redux)
+* [redux-thunk](https://github.com/gaearon/redux-thunk)
+* [redux-logger](https://github.com/evgenyrodionov/redux-logger)
+* [webpack](https://webpack.github.io/)
+* [babel](https://babeljs.io/)
+* [sass](https://sass-guidelin.es/)
