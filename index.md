@@ -1,4 +1,10 @@
-# 8 March 2017
+# 2017 - March 21
+
+Recurrent Neural Networks
+
+* [Andrej Karpathy Blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+# 2017 - March 8
 
 I've been figuring out how to use React and a bunch of supporting or related
 libraries for dynamic web development.
